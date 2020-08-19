@@ -25,3 +25,5 @@ This project used CIFAR-10 dataset which you probably known already. It consists
 | Color Model              | Grayscale Images | 83.20%       | 995,230              |
 | Modified 1st Layer       | Grayscale Images | 85.43%       | 964,237              |
 | Modified 1st & 2nd Layer | Grayscale Images | 84.83%       | 950,046              |
+
+Notes: The third and fourth models were trained for 1 epoch on the batch normalization layer only.
